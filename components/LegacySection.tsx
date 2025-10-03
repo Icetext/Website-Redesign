@@ -6,7 +6,7 @@ const LegacyCard: React.FC<{ name: string; title: string; quote: string; imageUr
     <div className="p-8">
       <h3 className="text-2xl font-bold text-gray-900">{name}</h3>
       <p className="text-gray-500 mb-4">{title}</p>
-      <blockquote className="text-gray-600 italic border-l-4 border-blue-500 pl-4">
+      <blockquote className="text-gray-600 italic border-l-4 border-blue-500 pl-4 text-base md:text-lg lg:text-xl xl:text-2xl">
         "{quote}"
       </blockquote>
     </div>
