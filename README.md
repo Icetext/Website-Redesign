@@ -1,9 +1,5 @@
 # Website Redesign
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 ## About This Project
 
 This is a modern website redesign built with React and TypeScript. The website features a clean, professional layout with multiple pages and components designed to showcase business information, news, and investor relations.
